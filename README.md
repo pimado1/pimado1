@@ -21,7 +21,7 @@ In 6 languages, open source (MIT), and it already recognises 345 TV models.
 
 **Install from your TV:** in the Downloader app, type **`8225348`**
 
-**[See the project](https://github.com/pimado1/ownyourtv)** · **[Download the latest version](https://github.com/pimado1/ownyourtv/releases/latest)** · **[TVs it works on](https://github.com/pimado1/ownyourtv/issues?q=label%3Atv-report)**
+**[Website](https://pimado1.github.io/ownyourtv/)** · **[See the project](https://github.com/pimado1/ownyourtv)** · **[Download the latest version](https://github.com/pimado1/ownyourtv/releases/latest)** · **[TVs it works on](https://github.com/pimado1/ownyourtv/issues?q=label%3Atv-report)**
 
 ---
 

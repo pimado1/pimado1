@@ -1,30 +1,34 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PimA, dev IA : je construis des apps avec l'IA" width="100%">
+  <img src="assets/banner.png" alt="PimA, AI dev: I build apps with AI" width="100%">
 </p>
 
-### Salut, moi c'est PimA
+### Hi, I'm PimA
 
-Je construis des apps avec l'IA, à Toulouse. Je pars d'une idée, je la conçois et je la livre jusqu'au bout :
-design, code, tests sur le vrai appareil, mise en ligne.
+I build apps with AI, from Toulouse. I take an idea all the way: design, code, tests on the real device, release.
 
 ---
 
-### Projet du moment : [OwnYourTV](https://github.com/pimado1/ownyourtv)
+### Project of the moment: [OwnYourTV](https://github.com/pimado1/ownyourtv)
 
 <a href="https://github.com/pimado1/ownyourtv"><img src="assets/ownyourtv.png" alt="OwnYourTV" width="100%"></a>
 
-**Tu l'as payée. Elle est à toi.** OwnYourTV coupe les pubs et le pistage installés d'usine sur les TV Android TV
-et Google TV, et leur donne un accueil vivant : un ciel de nuit, tes applis en cartes 3D, la météo. Tout se fait à
-la télécommande, sans ordinateur, en un clic, et un bouton remet tout comme avant. En 6 langues, open source.
+**You paid for it. Own it.** OwnYourTV switches off the ads and tracking that Android TV and Google TV sets come
+with, and gives them a living home screen: a night sky, your apps as a 3D deck, the weather. A step-by-step
+assistant does it all from the remote, no computer needed, and one button puts everything back.
+In 6 languages, open source (MIT), and it already recognises 345 TV models.
 
-**[Voir le projet](https://github.com/pimado1/ownyourtv)** · **[Télécharger](https://github.com/pimado1/ownyourtv/releases/latest)**
+<a href="https://github.com/pimado1/ownyourtv"><img src="https://raw.githubusercontent.com/pimado1/ownyourtv/main/docs/screenshots/before-after.jpg" alt="Before: the stock Google TV home full of ads. After: the OwnYourTV home." width="100%"></a>
+
+**Install from your TV:** in the Downloader app, type **`8225348`**
+
+**[See the project](https://github.com/pimado1/ownyourtv)** · **[Download the latest version](https://github.com/pimado1/ownyourtv/releases/latest)** · **[TVs it works on](https://github.com/pimado1/ownyourtv/issues?q=label%3Atv-report)**
 
 ---
 
-### Ce que j'utilise
+### What I use
 
-`Kotlin` · `Java` · `Android` · `Python` · `Claude Code` · `Git`
+`Kotlin` · `Java` · `Android` · `Python` · `Cloudflare Workers` · `Claude Code` · `Git`
 
-### Me suivre
+### Follow me
 
 [X / Twitter](https://x.com/PimAoff)

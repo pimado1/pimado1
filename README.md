@@ -15,7 +15,7 @@ I build apps with AI, from Toulouse. I take an idea all the way: design, code, t
 **You paid for it. Own it.** OwnYourTV switches off the ads and tracking that Android TV and Google TV sets come
 with, and gives them a living home screen: a night sky, your apps as a 3D deck, the weather. A step-by-step
 assistant does it all from the remote, no computer needed, and one button puts everything back.
-In 6 languages, open source (MIT), and it already recognises 345 TV models.
+No computer, no phone: just the remote. In 6 languages, open source (MIT).
 
 <a href="https://github.com/pimado1/ownyourtv"><img src="https://raw.githubusercontent.com/pimado1/ownyourtv/main/docs/screenshots/before-after.jpg" alt="Before: the stock Google TV home full of ads. After: the OwnYourTV home." width="100%"></a>
 

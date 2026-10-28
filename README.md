@@ -9,21 +9,21 @@ design, code, tests sur le vrai appareil, mise en ligne.
 
 ---
 
-### Projet du moment : [Horizon](https://github.com/pimado1/horizon-tv)
+### Projet du moment : [OwnYourTV](https://github.com/pimado1/ownyourtv)
 
-<a href="https://github.com/pimado1/horizon-tv"><img src="assets/horizon.png" alt="L'accueil Horizon sur une TV" width="100%"></a>
+<a href="https://github.com/pimado1/ownyourtv"><img src="assets/ownyourtv.png" alt="OwnYourTV" width="100%"></a>
 
-Un accueil vivant pour Android TV et Google TV : un ciel de nuit animé, une aurore boréale qui prend la couleur
-de l'app sélectionnée, tes apps en jeu de cartes 3D, la météo de ta ville et la reprise de tes séries.
-Sans pub, sans compte, sans root, et open source.
+**Tu l'as payée. Elle est à toi.** OwnYourTV coupe les pubs et le pistage installés d'usine sur les TV Android TV
+et Google TV, et leur donne un accueil vivant : un ciel de nuit, tes applis en cartes 3D, la météo. Tout se fait à
+la télécommande, sans ordinateur, en un clic, et un bouton remet tout comme avant. En 6 langues, open source.
 
-**[Voir le projet](https://github.com/pimado1/horizon-tv)** · **[Télécharger](https://github.com/pimado1/horizon-tv/releases/latest)**
+**[Voir le projet](https://github.com/pimado1/ownyourtv)** · **[Télécharger](https://github.com/pimado1/ownyourtv/releases/latest)**
 
 ---
 
 ### Ce que j'utilise
 
-`Java` · `Android` · `Python` · `Claude Code` · `Git`
+`Kotlin` · `Java` · `Android` · `Python` · `Claude Code` · `Git`
 
 ### Me suivre
 

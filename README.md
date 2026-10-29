@@ -21,7 +21,7 @@ No computer, no phone: just the remote. In 6 languages, open source (MIT).
 
 **Install from your TV:** in the Downloader app, type **`8225348`**
 
-**[Website](https://pimado1.github.io/ownyourtv/)** · **[See the project](https://github.com/pimado1/ownyourtv)** · **[Download the latest version](https://github.com/pimado1/ownyourtv/releases/latest)** · **[TVs it works on](https://github.com/pimado1/ownyourtv/issues?q=label%3Atv-report)**
+**[Website](https://ownyour.tv/)** · **[See the project](https://github.com/pimado1/ownyourtv)** · **[Download the latest version](https://github.com/pimado1/ownyourtv/releases/latest)** · **[TVs it works on](https://github.com/pimado1/ownyourtv/issues?q=label%3Atv-report)**
 
 ---
 
